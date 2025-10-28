@@ -6,7 +6,7 @@
     "author_img": "https://randomuser.me/api/portraits/men/11.jpg",
     "author": "Tanvir Hasan",
     "posted_date": "2025-10-01",
-    "reading_time": "6 min",
+    "reading_time": "6",
     "hashtags": ["react", "hooks"]
   },
   {
@@ -16,7 +16,7 @@
     "author_img": "https://randomuser.me/api/portraits/women/21.jpg",
     "author": "Nusrat Jahan",
     "posted_date": "2025-09-28",
-    "reading_time": "5 min",
+    "reading_time": "5",
     "hashtags": ["performance", "frontend"]
   },
   {
@@ -26,7 +26,7 @@
     "author_img": "https://randomuser.me/api/portraits/men/31.jpg",
     "author": "Rafiul Islam",
     "posted_date": "2025-09-25",
-    "reading_time": "7 min",
+    "reading_time": "7",
     "hashtags": ["routing", "react"]
   },
   {
@@ -36,7 +36,7 @@
     "author_img": "https://randomuser.me/api/portraits/women/41.jpg",
     "author": "Maliha Chowdhury",
     "posted_date": "2025-09-22",
-    "reading_time": "8 min",
+    "reading_time": "8",
     "hashtags": ["tailwind", "blog"]
   },
   {
@@ -46,7 +46,7 @@
     "author_img": "https://randomuser.me/api/portraits/men/51.jpg",
     "author": "Shahriar Kabir",
     "posted_date": "2025-09-20",
-    "reading_time": "6 min",
+    "reading_time": "6",
     "hashtags": ["redux", "state"]
   },
   {
@@ -56,7 +56,7 @@
     "author_img": "https://randomuser.me/api/portraits/women/61.jpg",
     "author": "Farzana Rahman",
     "posted_date": "2025-09-18",
-    "reading_time": "5 min",
+    "reading_time": "5",
     "hashtags": ["context", "comparison"]
   },
   {
@@ -66,7 +66,7 @@
     "author_img": "https://randomuser.me/api/portraits/men/71.jpg",
     "author": "Asif Mahmud",
     "posted_date": "2025-09-15",
-    "reading_time": "4 min",
+    "reading_time": "4",
     "hashtags": ["components", "reusability"]
   },
   {
@@ -76,7 +76,7 @@
     "author_img": "https://randomuser.me/api/portraits/women/81.jpg",
     "author": "Sadia Akter",
     "posted_date": "2025-09-12",
-    "reading_time": "6 min",
+    "reading_time": "6",
     "hashtags": ["forms", "react"]
   },
   {
@@ -86,7 +86,7 @@
     "author_img": "https://randomuser.me/api/portraits/men/91.jpg",
     "author": "Fahim Reza",
     "posted_date": "2025-09-10",
-    "reading_time": "7 min",
+    "reading_time": "7",
     "hashtags": ["typescript", "react"]
   },
   {
@@ -96,7 +96,7 @@
     "author_img": "https://randomuser.me/api/portraits/women/12.jpg",
     "author": "Rumana Sultana",
     "posted_date": "2025-09-08",
-    "reading_time": "5 min",
+    "reading_time": "5",
     "hashtags": ["testing", "jest"]
   },
   {
@@ -106,7 +106,7 @@
     "author_img": "https://randomuser.me/api/portraits/men/22.jpg",
     "author": "Zahid Hossain",
     "posted_date": "2025-09-05",
-    "reading_time": "6 min",
+    "reading_time": "6",
     "hashtags": ["ui", "libraries"]
   },
   {
@@ -116,7 +116,7 @@
     "author_img": "https://randomuser.me/api/portraits/women/32.jpg",
     "author": "Tanjina Alam",
     "posted_date": "2025-09-03",
-    "reading_time": "7 min",
+    "reading_time": "7",
     "hashtags": ["animation", "framer"]
   },
   {
@@ -126,7 +126,7 @@
     "author_img": "https://randomuser.me/api/portraits/men/42.jpg",
     "author": "Nayeem Rahman",
     "posted_date": "2025-09-01",
-    "reading_time": "5 min",
+    "reading_time": "5",
     "hashtags": ["lazyload", "optimization"]
   },
   {
@@ -136,7 +136,7 @@
     "author_img": "https://randomuser.me/api/portraits/women/52.jpg",
     "author": "Lubna Haque",
     "posted_date": "2025-08-30",
-    "reading_time": "6 min",
+    "reading_time": "6",
     "hashtags": ["seo", "react"]
   },
   {
@@ -146,7 +146,7 @@
     "author_img": "https://randomuser.me/api/portraits/men/62.jpg",
     "author": "Imran Hossain",
     "posted_date": "2025-08-28",
-    "reading_time": "4 min",
+    "reading_time": "4",
     "hashtags": ["deployment", "vercel"]
   }
 ]
