@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "cover": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
+    "title": "Understanding React Hooks in Depth",
+    "author_img": "https://randomuser.me/api/portraits/men/11.jpg",
+    "author": "Tanvir Hasan",
+    "posted_date": "2025-10-01",
+    "reading_time": "6 min",
+    "hashtags": ["react", "hooks"]
+  },
+  {
+    "id": 2,
+    "cover": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg",
+    "title": "Optimizing React Performance",
+    "author_img": "https://randomuser.me/api/portraits/women/21.jpg",
+    "author": "Nusrat Jahan",
+    "posted_date": "2025-09-28",
+    "reading_time": "5 min",
+    "hashtags": ["performance", "frontend"]
+  },
+  {
+    "id": 3,
+    "cover": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
+    "title": "React Router v6: What's New?",
+    "author_img": "https://randomuser.me/api/portraits/men/31.jpg",
+    "author": "Rafiul Islam",
+    "posted_date": "2025-09-25",
+    "reading_time": "7 min",
+    "hashtags": ["routing", "react"]
+  },
+  {
+    "id": 4,
+    "cover": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg",
+    "title": "Building a Blog with React and Tailwind",
+    "author_img": "https://randomuser.me/api/portraits/women/41.jpg",
+    "author": "Maliha Chowdhury",
+    "posted_date": "2025-09-22",
+    "reading_time": "8 min",
+    "hashtags": ["tailwind", "blog"]
+  },
+  {
+    "id": 5,
+    "cover": "https://images.pexels.com/photos/1181271/pexels-photo-1181271.jpeg",
+    "title": "State Management with Redux Toolkit",
+    "author_img": "https://randomuser.me/api/portraits/men/51.jpg",
+    "author": "Shahriar Kabir",
+    "posted_date": "2025-09-20",
+    "reading_time": "6 min",
+    "hashtags": ["redux", "state"]
+  },
+  {
+    "id": 6,
+    "cover": "https://images.pexels.com/photos/1181280/pexels-photo-1181280.jpeg",
+    "title": "React Context API vs Redux",
+    "author_img": "https://randomuser.me/api/portraits/women/61.jpg",
+    "author": "Farzana Rahman",
+    "posted_date": "2025-09-18",
+    "reading_time": "5 min",
+    "hashtags": ["context", "comparison"]
+  },
+  {
+    "id": 7,
+    "cover": "https://images.pexels.com/photos/1181290/pexels-photo-1181290.jpeg",
+    "title": "Reusable Components in React",
+    "author_img": "https://randomuser.me/api/portraits/men/71.jpg",
+    "author": "Asif Mahmud",
+    "posted_date": "2025-09-15",
+    "reading_time": "4 min",
+    "hashtags": ["components", "reusability"]
+  },
+  {
+    "id": 8,
+    "cover": "https://images.pexels.com/photos/1181300/pexels-photo-1181300.jpeg",
+    "title": "React Forms: Controlled vs Uncontrolled",
+    "author_img": "https://randomuser.me/api/portraits/women/81.jpg",
+    "author": "Sadia Akter",
+    "posted_date": "2025-09-12",
+    "reading_time": "6 min",
+    "hashtags": ["forms", "react"]
+  },
+  {
+    "id": 9,
+    "cover": "https://images.pexels.com/photos/1181310/pexels-photo-1181310.jpeg",
+    "title": "Using TypeScript with React",
+    "author_img": "https://randomuser.me/api/portraits/men/91.jpg",
+    "author": "Fahim Reza",
+    "posted_date": "2025-09-10",
+    "reading_time": "7 min",
+    "hashtags": ["typescript", "react"]
+  },
+  {
+    "id": 10,
+    "cover": "https://images.pexels.com/photos/1181320/pexels-photo-1181320.jpeg",
+    "title": "Testing React Apps with Jest",
+    "author_img": "https://randomuser.me/api/portraits/women/12.jpg",
+    "author": "Rumana Sultana",
+    "posted_date": "2025-09-08",
+    "reading_time": "5 min",
+    "hashtags": ["testing", "jest"]
+  },
+  {
+    "id": 11,
+    "cover": "https://images.pexels.com/photos/1181330/pexels-photo-1181330.jpeg",
+    "title": "UI Libraries for React Developers",
+    "author_img": "https://randomuser.me/api/portraits/men/22.jpg",
+    "author": "Zahid Hossain",
+    "posted_date": "2025-09-05",
+    "reading_time": "6 min",
+    "hashtags": ["ui", "libraries"]
+  },
+  {
+    "id": 12,
+    "cover": "https://images.pexels.com/photos/1181340/pexels-photo-1181340.jpeg",
+    "title": "Adding Animations in React with Framer Motion",
+    "author_img": "https://randomuser.me/api/portraits/women/32.jpg",
+    "author": "Tanjina Alam",
+    "posted_date": "2025-09-03",
+    "reading_time": "7 min",
+    "hashtags": ["animation", "framer"]
+  },
+  {
+    "id": 13,
+    "cover": "https://images.pexels.com/photos/1181350/pexels-photo-1181350.jpeg",
+    "title": "Lazy Loading in React for Faster Apps",
+    "author_img": "https://randomuser.me/api/portraits/men/42.jpg",
+    "author": "Nayeem Rahman",
+    "posted_date": "2025-09-01",
+    "reading_time": "5 min",
+    "hashtags": ["lazyload", "optimization"]
+  },
+  {
+    "id": 14,
+    "cover": "https://images.pexels.com/photos/1181360/pexels-photo-1181360.jpeg",
+    "title": "SEO Best Practices for React Apps",
+    "author_img": "https://randomuser.me/api/portraits/women/52.jpg",
+    "author": "Lubna Haque",
+    "posted_date": "2025-08-30",
+    "reading_time": "6 min",
+    "hashtags": ["seo", "react"]
+  },
+  {
+    "id": 15,
+    "cover": "https://images.pexels.com/photos/1181370/pexels-photo-1181370.jpeg",
+    "title": "Deploying React Apps to Vercel",
+    "author_img": "https://randomuser.me/api/portraits/men/62.jpg",
+    "author": "Imran Hossain",
+    "posted_date": "2025-08-28",
+    "reading_time": "4 min",
+    "hashtags": ["deployment", "vercel"]
+  }
+]
