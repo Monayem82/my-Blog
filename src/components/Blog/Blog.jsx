@@ -1,10 +1,35 @@
 import React from 'react';
 
 const Blog = ({blog}) => {
-    const {cover}=blog;
+    const {id,cover,author,author_img,hashtags,posted_date,reading_time,title}=blog;
     return (
         <div>
-            <img src={cover} alt="" />
+            <div className="card bg-base-100 w-96 shadow-sm">
+                <figure>
+                    <img
+                    src={cover}
+                    alt="Shoes" />
+                </figure>
+                <div className="card-body">
+                    <div className="author flex justify-evenly content-center gap-4">
+                        <h3>{author}</h3>
+                        <img className='w-16 rounded-full' src={author_img} alt="" />
+                        
+                    </div>
+                    <h2 className="card-title">{title}</h2>
+                    <p>Posted Date :{posted_date}</p>
+                    
+                    <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
+                    <div className="hashtags">
+                        {
+                            hashtags.map((hashtag,id)=><span key={id} className='mr-2 text-blue-500'>#{hashtag}</span>)
+                        }
+                    </div>
+                    <div className="card-actions justify-end">
+                    <button className="btn btn-primary">Mark as Read</button>
+                    </div>
+                </div>
+            </div>
         </div>
     );
 };
